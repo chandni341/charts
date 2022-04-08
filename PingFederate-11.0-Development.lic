@@ -1,0 +1,14 @@
+ID=00354991
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.0
+EnforcementType=3
+Tier=Subscription
+IssueDate=2022-03-31
+ExpirationDate=2025-03-31
+DeploymentMethod=Traditional
+Organization=Ellkay, LLC
+SignCode=FF0F
+Signature=302D0215009579F11384897638356647E385159AD387B7814202145CDDEE6D629D45EC5D7A70E290F87F7F2A9E3178
